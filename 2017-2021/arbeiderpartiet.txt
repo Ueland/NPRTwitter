@@ -34,4 +34,3 @@ Eirik Sivertsen;https://twitter.com/eirikap
 Torstein T. Solberg;https://twitter.com/torsteint
 Anette Trettebergstuen;https://twitter.com/trettebergstuen
 Lene Vågslid;https://twitter.com/lenev
-
