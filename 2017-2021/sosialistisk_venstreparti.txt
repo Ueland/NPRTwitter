@@ -1,6 +1,6 @@
 Audun Lysbakken;https://twitter.com/audunlysbakken
 Kari Elisabeth Kaski;https://twitter.com/kariekas
-https://twitter.com/vonknag;TorgeirKnagFylkesnes
+TorgeirKnagFylkesnes;https://twitter.com/vonknag
 Karin Andersen;https://twitter.com/sv_karin
 Mona Fagerås;https://twitter.com/monafager
 Lars Haltbrekken;https://twitter.com/haltbrekken
